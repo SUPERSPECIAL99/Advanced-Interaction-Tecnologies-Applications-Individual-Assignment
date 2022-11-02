@@ -9,8 +9,8 @@ void setup() {
   
   println(MultiMarker.VERSION);
   cam=new Capture(this,1080,720);
-  nya=new MultiMarker(this,width,height,"../../data/camera_para.dat",NyAR4PsgConfig.CONFIG_PSG);
-  nya.addARMarker("../../data/patt.hiro",-80);
+  nya=new MultiMarker(this,width,height,"../sketch_221102a/data/camera_para.dat",NyAR4PsgConfig.CONFIG_PSG);
+  nya.addARMarker("../sketch_221102a/data/patt.hiro",-80);
   cam.start();
    img = loadImage("1.jpg");
 }
