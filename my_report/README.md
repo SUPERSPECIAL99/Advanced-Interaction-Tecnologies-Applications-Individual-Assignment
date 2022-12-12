@@ -1,6 +1,6 @@
 # Lesson: Advanced Interaction Technologies & Applications
 
-### First and Last Name: ΕΜΜΑΝΟΥΗΛ ΨΥΧΑΛΗΣ 
+### First and Last Name: ΕΜΜΑΝΟΥΗΛ ΨΥΧΑΛΗΣ 🎅
 ### University Registration Number: dpsd17127
 ### GitHub Personal Profile: https://github.com/SUPERSPECIAL99
 ### Advanced Interaction Tecnologies & Applications Github Personal Repository: xxx
@@ -29,30 +29,49 @@
 
 ![image](https://user-images.githubusercontent.com/101881250/200063019-01a3c088-2581-4bf6-9afa-636d5c36224c.png)
 
-5.  5.  Στο 5ο παραδοτέο εβαλα την βιβλιοθήκη nyar5psg. Στον κώδικα μου χρειαστείκε να αλλάξω την διαδρομή που διαβάζει τις εικόνες μου αλλιώς δεν θα ετρεχε. και τα αποθηκευσα ολα σε εναν φακελο μεσα data 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+5.  Στο 5ο παραδοτέο εβαλα την βιβλιοθήκη nyar5psg. Στον κώδικα μου χρειαστείκε να αλλάξω την διαδρομή που διαβάζει τις εικόνες μου αλλιώς δεν θα ετρεχε. και τα αποθηκευσα ολα σε εναν φακελο μεσα data 
 
 # 2nd Deliverable
 
+1. Στο πρώτο παραδοτέο άνοιξα στην άσκηση 16.6 και πρόσθεσα για το background μια εικόνα (lake.jpg). Το αποτέλεσμα με την εικόνα για το background είναι στην παρακάτω φωτογραφία.
+![image](https://user-images.githubusercontent.com/101881250/207136380-e798d324-e46b-4d2d-9334-45d4180b92b4.png)
 
+2. Στο δεύτερο παραδοτέο άνοιξα το παράδειγμα 16.7, αλλάζοντας τη σφαίρα και έφτιαξα ένα ορθογώνιο και άλλαξα και το χρώμα και το έκανα γαλάζιο. Το ορθογώνιο ακολουθεί την κίνηση του χεριού.
+![image](https://user-images.githubusercontent.com/101881250/207136915-5602c3b1-c178-482d-9ec0-79ae88ceb030.png)
+
+3. Στο τρίτο παραδοτέο εγκατέστησα την βιβλιοθήκη OpenCV,μέσω του παραδείγματος Background Substraction, διέγραψα το υπάρχον βίντεο ώστε η κάμερα να αντιλαμβάνεται την κίνηση του ατόμου και το περίγραμμά του. Φαίνεται ότι λειτουργεί στην εικόνα παρακάτω.
+
+Ποια είναι τα πλεονεκτήματα και μειονεκτήματα της έτοιμης βιβλιοθήκης έναντι του κώδικα από το πρώτο ερώτημα;Με την OpenCV: 
+Τα πλεονεκτήματα: 
+
+-ο κώδικας είναι ήδη διαμορφωμένος
+
+-με το openCV γινεται πιο εύκολη ο εντοπισμός του αντικειμένου
+
+-ειναι καταλληλη για εφαρμογες με χρηση καμερας σε πραγματικο χρονο 
+
+Τα αρνητικά: αργεί να εγκατασταθεί 
+
+![image](https://user-images.githubusercontent.com/101881250/207137157-03e66e8f-8a7c-436d-839f-d044ea61e432.png)
+
+4. Στο τέταρτο παραδοτέο άνοιξα παράδειγμα "snake" και μετά από κάποιες αλλαγές το κυκλάκι ακολουθεί ένα αντικείμενο και δημιουργεί ένα φιδάκι.
+
+Σε σχέση με το παραδοσιακό ποντίκι ποια είναι τα πλεονεκτήματα και ποια τα μειονεκτήματα αυτής της τεχνικής ελέγχου ενός ή περισσότερων σημείων σε μια οθόνη;:
+Τα πλεονεκτήματα:
+
+-γίνεται από απόσταση
+
+-χρειάζεται να υπάρχει μονο κάμερα 
+
+-γίνεται πιο εύκολη η πρόσβαση
+
+Τα μειονεκτήματα:
+
+-κολλάει αρκετά 
+
+-δεν είναι πάντοτε αποτελεσματικό
+
+![image](https://user-images.githubusercontent.com/101881250/207137280-c03d7523-a9e8-497d-8dc0-516e7c17eed6.png)
 
 # 3rd Deliverable 
 
@@ -64,3 +83,5 @@
 
 
 # Sources
+https://processing.org/tutorials/video#live-video βιβλίο του Daniel Shiffman από το eclass https://www.youtube.com/watch?v=nJWV7X7df9w https://www.youtube.com/watch?v=lJoUhLyI1TM https://processing.org/examples/embeddedlinks.html
+https://learnopencv.com/the-complete-guide-to-object-tracking-in-computer-vision https://processing.org βιβλίο του Daniel Shiffman από το eclass proseccing examples
