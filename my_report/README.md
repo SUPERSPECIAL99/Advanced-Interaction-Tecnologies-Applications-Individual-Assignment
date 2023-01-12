@@ -77,6 +77,22 @@
 
 # 3rd Deliverable 
 
+στο  3ο παραδοτεο εβαλα  τις βιβλιοθηκες που μας δινονται  εβαλα τον αναλογο κωδικα κατεβασα την φωτογραφια με τον καρχαρια.Οπως φαινεται γινεται η  εμφανιση της εικονας ,η περιστροφη , μεγεθυνση,  αλλαγη του κοκκινου χρωματος. οσο για την ερωτηση   χρησιμοποιησα το tuio tutorial και μονο οταν θα εφτανα στο σημειο προτοτυποοιησης θα χρησιμοπουησα την καμερα.
+
+![image](https://user-images.githubusercontent.com/101881250/212171820-2241fe65-e404-40bd-aa90-641febcd5ec9.png)
+
+![image](https://user-images.githubusercontent.com/101881250/212171922-fb16b287-1a53-486f-b508-898dd1812564.png)
+
+![image](https://user-images.githubusercontent.com/101881250/212172051-fa10ecf0-0118-4dc6-a16a-d097c8b21a98.png)
+
+![image](https://user-images.githubusercontent.com/101881250/212172103-1d0ec039-6cd6-40da-95c8-f820bcec5166.png)
+
+![image](https://user-images.githubusercontent.com/101881250/212172152-77e227b9-b750-49a3-af67-e88bb162d3c7.png)
+
+
+
+
+
 
 # Bonus 
 
